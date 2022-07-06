@@ -1,0 +1,11 @@
+{
+    "name": "uspsoig/fusioncharts-wrapper",
+    "description": "PHP wrapper for fusioncharts",
+    "type": "library",
+    "require": {
+        "uspsoig/fusion-charts": "*"
+    },
+    "autoload": {
+        "files": ["fusioncharts-wrapper/fusioncharts.php"]
+    }
+}
